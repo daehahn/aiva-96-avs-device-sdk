@@ -1,4 +1,4 @@
-# Amazon Alexa AVS Device SDK using AiVA-96 & DragonBoard 410c
+# WizeIoT AiVA-Pi Kit and Amazon Alexa Voice Services SDK on a Raspberry Pi
 
 The **WizeIoT’s AiVA mezzanine board for DragonBoard and 96Boards** enables developers of the smart home devices such as smart speaker, smart panels, kitchen equipment and other commercial and industrial electronics products to evaluate and prototype far-field hands-free voice interface using Amazon Alexa, Google Assistant, Microsoft Cortana voice service.
 
